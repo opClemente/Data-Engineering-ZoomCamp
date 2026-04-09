@@ -1,0 +1,1 @@
+This is Clemente, I'm testing out the echo feature to see how to create txt files with content already in them vs just an empty txt file using touch
